@@ -1,0 +1,50 @@
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FindForm.resources
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OtherForm.resources
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\alena\Desktop\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FindForm.resources
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OtherForm.resources
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\alena\Desktop\Практика 3 курс\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FindForm.resources
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OtherForm.resources
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\Lenovo\Desktop\Автосалон\Автосалон\MDI\MDI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
